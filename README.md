@@ -1,2 +1,2 @@
-# Jogo-da-Mem-ria
+# Jogo-da-Memoria
 Projeto - Jogo da Memória
